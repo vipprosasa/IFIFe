@@ -1,0 +1,12 @@
+{
+  "product" : [
+      {
+          "nameProduct": "Dogs Food",
+          "priceAfter": "9.00",
+          "priceBefore": "11.00",
+          "wasBuy": 0,
+          "imgTag": "https://demo.w3layouts.com/demos_new/template_demo/20-07-2017/grocery_store-demo_Free/725976873/web/images/tag.png",
+          "imgProduct": "https://demo.w3layouts.com/demos_new/template_demo/20-07-2017/grocery_store-demo_Free/725976873/web/images/4.png"
+      }
+  ]
+} 
